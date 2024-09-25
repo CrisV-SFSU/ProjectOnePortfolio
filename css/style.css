@@ -80,6 +80,7 @@ section p {
   font-size: 24pt;
   line-height: 36pt;
   margin-bottom: 2rem;
+  text-align: justify;
 }
 
 /* Inspiration Page Styling */
