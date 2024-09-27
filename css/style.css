@@ -97,6 +97,7 @@ article h2 {
 article img {
   max-width: 300px;
   margin-right: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 /* Top 5 Page Styling */
@@ -127,5 +128,5 @@ dl img {
 }
 dd {
   font-size: 18pt;
-  margin-bottom: 2rem;
+  margin-bottom: 8rem;
 }
